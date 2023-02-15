@@ -1,0 +1,11 @@
+tmp/
+
+*old
+
+*backup
+
+Site For Import/Thumbs.db
+
+*.DS_Store
+
+
